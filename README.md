@@ -1,5 +1,5 @@
 # Data Science Portfolio
-Each project represented here that is marked with "Additional Participanmts" was a group project with others, the readme in each subfolder will contain a directory of which files I contributed code to, as well as a detailed description of how to run the code and what its purpose was.
+Each project represented here that is marked with "Additional Participants" was a group project with others, the readme in each subfolder will contain a directory of which files I contributed code to, as well as a detailed description of how to run the code and what its purpose was.
 
 # [Cyrano: Improving Couples' Communication Through Empathetic Dialogue](https://github.com/jaredcdec/Data_Science_Example_Projects-Cyrano)
 Additional Participants: Joe Mirza, Ziwei Zhao
